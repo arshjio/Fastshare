@@ -1,5 +1,7 @@
 # Fastshare
 File sharing program 
+git add .
+git commit -m "Initial Flask app commit"
 import os
 from flask import Flask, request, render_template_string, send_from_directory
 
